@@ -1,1 +1,1 @@
-# Exercicio-Sprint-Farmacia
+# Exercicio-Spring-Farmacia
